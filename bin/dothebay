@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python "./../alexa_goingson/main.py" $@
