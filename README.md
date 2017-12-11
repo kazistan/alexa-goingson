@@ -1,5 +1,3 @@
-# Alexa - Goings On About SF
-
 <img src="./img/twin_plus_echo.jpg" crossorigin="https://mountsutro.org/library/sutro/hawk-thomas_sutro-tower-twin-peaks-silhouette.jpg" alt="Sutro, Twin Peaks, and Future Machine Overlords" width=346 height=176>
 
 Scraping cool things to do in San Francisco with Python <i>and Amazon Echo</i>
