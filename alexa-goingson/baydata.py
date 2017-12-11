@@ -69,7 +69,7 @@ class BAYDATA(object):
 		self.categories = self.pull_categories()
 
 		# Make Category Query
-		if category_limit == None:
+		if category_list == None:
 			category_list = self.categories.keys()
 
 		for cat in category_list:
